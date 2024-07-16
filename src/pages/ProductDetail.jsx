@@ -25,14 +25,16 @@ const handleBuy = () => {
 
 if (!product) return <div>Loading...</div>;
 
+
 return (
     <div className="product-detail">
         <h2>{product.name}</h2>
+        <h3>{product.sku}</h3>
         <IoLogoAndroid className='android'/> <MdPhoneAndroid className='cel1'/> <FaApple className='apple'/> <MdSmartphone className='cel2'/>
         <img src={product.image} alt={product.name} className="image-detail" />
         <p>{product.description}</p>
         <p>Price: ${product.price}</p>
-        <button onClick={handleBuy}>Comprar</button>
+        <button onClick={handleBuy}>Buy</button>
     </div>
 );
 };

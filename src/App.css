@@ -151,6 +151,11 @@ ul li a:hover {
   display: block;
 }
 
+.product-sku {
+  border: 3px double rgb(167, 117, 117) ;
+  display: inline;
+}
+
 .image-detail {
   width: 30%;
   height: 25rem;

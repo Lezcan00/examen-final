@@ -4,6 +4,7 @@
         "name": "Samsung Galaxy A03", 
         "description": "The Samsung Galaxy A03 is a low-end smartphone ideal for users looking for a budget device. It has a 6.5-inch display, an octa-core processor, 3GB of RAM, and a 5000 mAh battery that offers great autonomy. The main camera is 48MP, which is quite impressive for its category.", 
         "price": 120,
+        "sku": "ABC12345",
         "image": "https://http2.mlstatic.com/D_NQ_NP_673715-MLU74220133009_012024-O.webp"
     },
     { 
@@ -11,6 +12,7 @@
         "name": "Xiaomi Redmi Note 11", 
         "description": "The Xiaomi Redmi Note 11 is a mid-range device that offers excellent value for money. It features a 6.43-inch AMOLED display, a Snapdragon 680 processor, 4GB of RAM, and a 5000 mAh battery with 33W fast charging. Its quad camera has a 50MP main sensor.", 
         "price": 200,
+        "sku": "XYZ67890",
         "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-11-4g-1.jpg"
     },
     { 
@@ -18,13 +20,15 @@
         "name": "Motorola Moto G13", 
         "description": "The Moto G13 is known for its impressive battery life thanks to its 5000 mAh battery, which can last up to three days with moderate use. It has a 6.5-inch display, a MediaTek Helio G37 processor, 4GB of RAM and 64GB of internal storage. Its main camera is 50MP, offering good photos for its price.", 
         "price": 250,
+        "sku": "LMN45678",
         "image": "https://http2.mlstatic.com/D_NQ_NP_708420-MLA75549249611_042024-O.webp"
     },
     { 
         "id": 4, 
         "name": "iPhone 13 Pro", 
-        "description": "The iPhone 13 Pro is one of Apple's most advanced devices, with a 6.1-inch Super Retina XDR display, the powerful A15 Bionic chip, and a 12MP triple camera system that includes an ultra wide-angle, wide-angle and telephoto lens. It has advanced photo and video capabilities, including Cinematic mode and ProRes recording, and offers up to 1TB of internal storage and excellent battery life.", 
+        "description": "The iPhone 13 Pro is one of Apple's most advanced devices, with a 6.1-inch Super Retina XDR display, the powerful A15 Bionic chip, and a 12MP triple camera system that includes an ultra wide-angle, wide-angle and telephoto lens.", 
         "price": 999,
+        "sku": "PQR98765",
         "image": "https://http2.mlstatic.com/D_NQ_NP_821416-MLA47781962896_102021-O.webp"
     }
 ]

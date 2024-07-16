@@ -18,6 +18,7 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/product/:id" element={<ProductDetail />} />
           <Route path="/" element={<Home />} />
+          <Route path="*" element={<h2>Not found</h2>}></Route>
         </Routes>
       </div>
       <Footer />
